@@ -1,0 +1,25 @@
+{
+	"name": "realist-dumps-merge",
+	"version": "1.0.0",
+	"description": "This is a boilerplate of an Apify actor.",
+	"main": "main.js",
+	"dependencies": {
+		"apify": "^0.8.16",
+		"bluebird": "^3.5.2",
+		"mongodb": "^3.1.8",
+		"proxy-chain": "^0.2.5",
+		"underscore": "^1.9.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "node main.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"author": "",
+	"license": "ISC",
+	"homepage": ""
+}

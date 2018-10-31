@@ -1,0 +1,12 @@
+{
+	"name": "realist-dumps-merge",
+	"actId": "drobnikj/realist-dumps-merge",
+	"version": {
+		"versionNumber": "0.1",
+		"buildTag": "latest",
+		"envVars": [],
+		"sourceType": "TARBALL",
+		"tarballUrl": "https://api.apify.com/v2/key-value-stores/6XZutKX8JEQnXctEF/records/realist-dumps-merge-0.1.zip?disableRedirect=true"
+	},
+	"template": "basic"
+}
